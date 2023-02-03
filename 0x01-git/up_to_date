@@ -1,1 +1,3 @@
 The git command used to create the up_to_date file is the touch command.
+
+The right git command for up_to_date is ["git pull"]
